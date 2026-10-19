@@ -39,7 +39,6 @@ List of platforms where projects can be dropped
 - [Playground](https://www.playground.ink/) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum dedicated to pen plotter art.
 - [Prohibition](https://www.artblocks.io/partners/prohibition) - Art Blocks Engine platform for generative art on Base.
-* [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) - Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/)
 - [Verse](https://verse.works/releases) - Generative art platform on Ethereum.
 - [Vivid](https://www.vivid.gallery/) - Generative art platform on Bitcoin.
 
@@ -95,6 +94,7 @@ List of platforms where projects can be dropped
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with linear formulas.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) - Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/)
 
 ## Code Editors
 
