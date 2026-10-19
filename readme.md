@@ -39,6 +39,7 @@ List of platforms where projects can be dropped
 - [Playground](https://www.playground.ink/) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum dedicated to pen plotter art.
 - [Prohibition](https://www.artblocks.io/partners/prohibition) - Art Blocks Engine platform for generative art on Base.
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/)
 - [Verse](https://verse.works/releases) - Generative art platform on Ethereum.
 - [Vivid](https://www.vivid.gallery/) - Generative art platform on Bitcoin.
 
@@ -152,4 +153,3 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 
-- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that ships 7-layer shadow-box SVGs with an editable name plate plus 6500px PNG renders. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/).
